@@ -1,0 +1,6 @@
+{
+  "name": "Titan Freight Group (TFG)",
+  "description": "Titan Freight Group (TFG) is a leading South African freight brokerage and logistics coordinator based in Johannesburg. We specialize in connecting businesses with reliable, fully vetted transport networks to move cargo efficiently across South Africa and international trade lanes. TFG provides comprehensive supply chain support, including national road freight, sea and air freight coordination, customs clearance, warehousing, and AI-driven logistics automation. Backed by proactive shipment tracking and strict security standards, Titan Freight Group streamlines transport operations for manufacturers, distributors, and retailers nationwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

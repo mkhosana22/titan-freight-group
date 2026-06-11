@@ -1,0 +1,13 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Specifically mention AI search crawlers to establish optimization bounds
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Link to host name and canonical sitemap URL
+Sitemap: https://titanfreightgroup.co.za/sitemap.xml
