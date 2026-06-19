@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* Custom mobile responsive utility layers and overrides for Titan Freight Group (TFG) */
 
 /* Ensure smooth behaviors globally on all device types */
